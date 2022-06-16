@@ -15,7 +15,7 @@ $(document).ready(() => {
       },
       file: {
         icon: "https://img.icons8.com/material-rounded/1x/document.png",
-        valid_children: ["file"],
+        valid_children: [],
       },
     },
     plugins: ["types"],
